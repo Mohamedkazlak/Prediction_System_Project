@@ -1,4 +1,4 @@
-# Prediction_System_Project
+# Prediction System Project
 
 •	Train models on a small dataset, takes an input and predicts gender using multiple classifiers, displaying results for comparison.
 
